@@ -38,4 +38,5 @@ Python · Flutter/Dart · Firebase · PHP · HTML/CSS
 ## Contact
  
 stiven.osorio.dev@gmail.com
+
 linkedin.com/in/stiven-osorio-dev
