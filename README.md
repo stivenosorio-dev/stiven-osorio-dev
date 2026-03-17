@@ -19,10 +19,10 @@ Python · Flutter/Dart · Firebase · PHP · HTML/CSS
  
 | Project | Stack | Status |
 |---|---|---|
-| Inventory System | Java · OOP · Collections |  In Progress |
-| Task Manager API | Spring Boot · MySQL · JPA |  Planned |
-| Text Analyzer API | Spring Boot · Algorithms |  Planned |
-| Telegram Bot Backend | Spring Boot · Webhooks |  Planned |
+| Inventory System | Java · OOP · Collections | In Progress |
+| Task Manager API | Spring Boot · MySQL · JPA | Planned |
+| Text Analyzer API | Spring Boot · Algorithms | Planned |
+| Telegram Bot Backend | Spring Boot · Webhooks | Planned |
  
 ---
  
